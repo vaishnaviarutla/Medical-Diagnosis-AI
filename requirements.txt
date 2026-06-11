@@ -1,0 +1,5 @@
+pandas
+openpyxl
+matplotlib
+scikit-learn
+pip install -r requirements.txt
